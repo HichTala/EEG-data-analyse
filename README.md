@@ -1,1 +1,1 @@
-# EEG_data_analyse
+# Electroencephalogram data analysis
